@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm mulam venkata sai teja
 
-<!--
-**saiteja31041/saiteja31041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 About Me
+- 🌟 learning Full Stack Web Developer passionate about building impactful web applications.
+- 🌱 Currently learning **ReactJS**, **NodeJS**, **Spring**, **ExpressJS**, and Springboot technologies to enhance my skills.
+- 📫 **Contact Me**:
+  - **Phone**: +91-9848184926
+  - **Email**: 2200031512cseh@gmail.com
+  - **LinkedIn**: [@mulamvenkatasaiteja](https://www.linkedin.com/in/mulam-venkata-sai-teja-201a46253/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+| Degree           | Institute               | Board/University | CGPA/Percentage | Year       |
+|------------------|------------------------|------------------|-----------------|------------|
+| B.Tech (CSEH)     | KL University, Guntur  | KLEF             | 9.28 (Till 4th Sem) | 2022-2026  |
+| Senior Secondary | voewl junior college       | BIEAP             | 89.2%           | 2020-2022  |
+| Class X          | voewl India high school  | SSC             | 92%         | 2020       |
+
+---
+
+## 🛠 Technical Skills
+- **Programming Languages**: Java, JavaScript, C
+- **Frontend**: HTML, CSS, ReactJS(basic)
+- **Backend**: Spring,SpringBoot, Hibernate
+- **Database**: MongoDB, MySQL, PostgreSQL
+- **Developer Tools**: VS Code, Git, Eclipse, Postman
+
+---
+
+## 💻 Projects
+### 🎯 Online Car Rental System
+- **Duration**: July 2023 - Dec 2023
+- Built an online Car management system using the **MERN stack**.
+- Integrated secure payment gateways for simplified donation processes.
+- Documented APIs and system architecture to facilitate collaboration.
+### 🎯 Online Job Portal System
+- **Duration**: Dec 2023 - Apr 2024
+- Built an online Car Job portal system using the **Python Full Stack**.
+- Documented APIs and system architecture to facilitate collaboration.
+- integrated with secure documentations and sorting resumes based on score.
+
+
+---
+
+## 🎖 Certifications
+- **Red Hat Certified Enterprise Application Developer** (RED HAT)
+- **Generative AI** (Oracle)
+- **SalseForce AI Associate** (SalseForce)
+- **Data	Analytics	and	Visualization	Job Simulation**(accenture)
+---
+
+
+---
+
+## 🏆 Achievements
+- 9.28 CGPA at KL University (Till 4th Sem)
