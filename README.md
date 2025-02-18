@@ -39,7 +39,16 @@
 - Built an online Car Job portal system using the **Python Full Stack**.
 - Documented APIs and system architecture to facilitate collaboration.
 - integrated with secure documentations and sorting resumes based on score.
+### 🎯 Loan Management System
+**Duration:** Jul 2024 - Dec 2024
+A full-stack application built with Spring Boot, React, MySQL, and Hibernate that streamlines the process of applying, approving, disbursing, and repaying loans.
 
+## Key Features
+1. **Full-Stack Technology:** Robust integration of Spring Boot, React, MySQL, and Hibernate.
+2. **Secure Authentication:** JWT-based login with role-based access control.
+3. **Streamlined Workflow:** Simplified loan application submission, review, and tracking.
+4. **Intuitive Dashboards:** User-friendly interfaces for both customers and admins.
+5. **Modular Architecture:** Scalable design using RESTful APIs and modular code.
 
 ---
 
@@ -54,4 +63,4 @@
 ---
 
 ## 🏆 Achievements
-- 9.28 CGPA at KL University (Till 4th Sem)
+- 9.31 CGPA at KL University (Till 5th Sem)
