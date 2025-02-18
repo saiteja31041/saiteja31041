@@ -42,13 +42,11 @@
 ### 🎯 Loan Management System
 **Duration:** Jul 2024 - Dec 2024
 A full-stack application built with Spring Boot, React, MySQL, and Hibernate that streamlines the process of applying, approving, disbursing, and repaying loans.
-
-## Key Features
-1. **Full-Stack Technology:** Robust integration of Spring Boot, React, MySQL, and Hibernate.
-2. **Secure Authentication:** JWT-based login with role-based access control.
-3. **Streamlined Workflow:** Simplified loan application submission, review, and tracking.
-4. **Intuitive Dashboards:** User-friendly interfaces for both customers and admins.
-5. **Modular Architecture:** Scalable design using RESTful APIs and modular code.
+- **Full-Stack Technology:** Robust integration of Spring Boot, React, MySQL, and Hibernate.
+- **Secure Authentication:** JWT-based login with role-based access control.
+- **Streamlined Workflow:** Simplified loan application submission, review, and tracking.
+- **Intuitive Dashboards:** User-friendly interfaces for both customers and admins.
+- **Modular Architecture:** Scalable design using RESTful APIs and modular code.
 
 ---
 
